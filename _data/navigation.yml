@@ -1,0 +1,9 @@
+main:
+- title: "About"
+  url: /about/
+- title: "Actes"
+  url: /actes/
+- title: Brest2001
+  url: /brest2001/
+- title: "dev"
+  url: /dev/
